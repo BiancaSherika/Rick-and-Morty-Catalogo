@@ -106,6 +106,7 @@ const dataBaseTeste = [
     "type": "",
     "gender": "Female",
   },
+  
 ]
 describe('Testar se é uma função', () => {
   it('retornar se gênero é uma função', () => {
