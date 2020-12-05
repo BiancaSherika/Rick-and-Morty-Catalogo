@@ -1,8 +1,8 @@
-# :sparkling_heart: Data Lovers
+# :sparkling_heart: Rick and Morty
 
 Quer navegar por esse mundo cheio de aventuras? Acesse agora nossa aplicação e visualizae seus personagens preferidos!
 
-https://julianaads.github.io/SAP005-data-lovers/src/
+https://biancasherika.github.io/SAP005-data-lovers/src/
 
 ## Índice
 
@@ -41,7 +41,7 @@ Fizemos uma pesquisa atraves do Google forms para identificar qual nosso :dart: 
  
  :heavy_check_mark: E por fim, 67,9% dos usuarios disseram que gostariam de visualizar as informações em formato de card.
 
-## :technologist: 3. Usuário
+## :technologist: 3. Usuários
 
 ### Persona
 
