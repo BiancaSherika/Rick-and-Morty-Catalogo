@@ -1,7 +1,6 @@
 # :sparkling_heart: Rick and Morty
 
 Quer navegar por esse mundo cheio de aventuras? Acesse agora nossa aplicação e visualizae seus personagens preferidos!
-
 https://biancasherika.github.io/SAP005-data-lovers/src/
 
 ## Índice
@@ -137,9 +136,9 @@ Abaixo nosso quadro de organização:
 
 ### Aprendizado
 
-:heavy_check_mark: Neste projeto aprendemos a manipular dados através de arquivo json.
-:heavy_check_mark: Desenvolver testes unitários garantindo a funcionalidade da aplicação mesmo após realizar alterações na mesma.
-:heavy_check_mark: Deixar a aplicação responsiva para todos os tamanhos de telas
+:heavy_check_mark: Neste projeto aprendemos a manipular dados através de arquivo json.</br>
+:heavy_check_mark: Desenvolver testes unitários garantindo a funcionalidade da aplicação mesmo após realizar alterações na mesma.</br>
+:heavy_check_mark: Deixar a aplicação responsiva para todos os tamanhos de telas</br>
 :heavy_check_mark: Manipulação de Arrays e Objetos
 
 ## 6. Pontos de Melhoria
