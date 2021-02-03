@@ -5,7 +5,7 @@ https://biancasherika.github.io/Rick-and-Morty-Catalogo/src/
 
 ## Índice
 
-* [1. Apresentação](#1-apresentacao)
+* [1. Apresentação](#1.-apresentacao)
 * [2. Pesquisa](#2-pesquisa)
 * [3. Usuário](#3-usuario)
 * [4. Interface do Usuário](#4-interface-do-usuario)
