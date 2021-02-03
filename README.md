@@ -1,7 +1,7 @@
 # :sparkling_heart: Rick and Morty
 
 Quer navegar por esse mundo cheio de aventuras? Acesse agora nossa aplicação e visualizae seus personagens preferidos!
-https://biancasherika.github.io/SAP005-data-lovers/src/
+https://biancasherika.github.io/Rick-and-Morty-Catalogo/src/
 
 ## Índice
 
@@ -15,14 +15,14 @@ https://biancasherika.github.io/SAP005-data-lovers/src/
 
 ***
 
-## :receipt: 1. Apresentação
+## 1. Apresentação
 
-  Projeto desenvolvido em dupla durante o Bootcamp da Laboratória com o objetivo de construir uma aplicação Web capaz de visualisar e manipular dados de acordo com as necessidades do usuário.
+  :receipt: Projeto desenvolvido em dupla durante o Bootcamp da Laboratória com o objetivo de construir uma aplicação Web capaz de visualisar e manipular dados de acordo com as necessidades do usuário.
   A temática escolhida para representar o projeto foi Rick and Morty, a animação é uma série adulta norte-americana de comédia e ficção científica estreada em 2013, que conta a história do cientista bebado Rick e seu neto pré adolescente Morty, que se envolvem em diversas aventuras perigosas.
 
-## :bar_chart: 2. Pesquisa
+## 2. Pesquisa
 
-Fizemos uma pesquisa atraves do Google forms para identificar qual nosso :dart: público alvo e quais informações os usuários gostariam de encontrar em nossa aplicação. A pesquisa obteve 160 respostas dentre os resultados obtivemos os seguintes dados:
+:bar_chart: Fizemos uma pesquisa atraves do Google forms para identificar qual nosso :dart: público alvo e quais informações os usuários gostariam de encontrar em nossa aplicação. A pesquisa obteve 160 respostas dentre os resultados obtivemos os seguintes dados:
 
 ![](/src/img/plataforma.jpeg)
 
@@ -40,11 +40,11 @@ Fizemos uma pesquisa atraves do Google forms para identificar qual nosso :dart: 
  
  :heavy_check_mark: E por fim, 67,9% dos usuarios disseram que gostariam de visualizar as informações em formato de card.
 
-## :technologist: 3. Usuários
+## 3. Usuários
 
 ### Persona
 
-Após o resultado da pesquisa, identificamos e validamos uma persona, ela se caracteriza como fã da série, que já assistiu todas as temporadas e consome este conteúdo periodicamente, dentro do nosso público alvo. Abaixo informações detalhadas:
+:technologist: Após o resultado da pesquisa, identificamos e validamos uma persona, ela se caracteriza como fã da série, que já assistiu todas as temporadas e consome este conteúdo periodicamente, dentro do nosso público alvo. Abaixo informações detalhadas:
 
 ![](/src/img/persona.jpeg)
 
@@ -72,11 +72,11 @@ Ordem para listar os personagens em ordem crescente, decrescente e de relevânci
 
 
 
-## :paintbrush: 4. Interface de usuário
+## 4. Interface de usuário
 
 ### Protótipo de baixa qualidade
 
-Após o resultados da pesquisa desenvolvemos um protótipo de baixa qualidade que acreditamos ser o que os usuários esperam encontrar ao acessar a aplicação. Como ferramenta de desenvolvimento de Layout utilizamos o paint e criamos uma homePage que a principio teriam três sub-páginas.
+:paintbrush: Após o resultados da pesquisa desenvolvemos um protótipo de baixa qualidade que acreditamos ser o que os usuários esperam encontrar ao acessar a aplicação. Como ferramenta de desenvolvimento de Layout utilizamos o paint e criamos uma homePage que a principio teriam três sub-páginas.
 
 Abaixo o resultado:
 
@@ -127,9 +127,9 @@ Personagens
 
 
 
-## :rocket: 5. Desenvolvimento do Projeto
+## 5. Desenvolvimento do Projeto
 
-Utilizamos a ferramenta Trello para organizar todas as atividades que deveriam ser entregues até a data final do projeto, utilizamos a metodologia ágile entregando partes funcionais do projeto em cada uma das três sprints que tivemos.
+ :rocket: Utilizamos a ferramenta Trello para organizar todas as atividades que deveriam ser entregues até a data final do projeto, utilizamos a metodologia ágile entregando partes funcionais do projeto em cada uma das três sprints que tivemos.
 Abaixo nosso quadro de organização:
 
 ![](/src/img/trello.jpeg)
