@@ -5,7 +5,7 @@ https://biancasherika.github.io/Rick-and-Morty-Catalogo/src/
 
 ## Índice
 
-* [1. Apresentação](#1.-apresentacao)
+* [1. Apresentação](#1-apresentacao)
 * [2. Pesquisa](#2-pesquisa)
 * [3. Usuário](#3-usuario)
 * [4. Interface do Usuário](#4-interface-do-usuario)
@@ -15,12 +15,12 @@ https://biancasherika.github.io/Rick-and-Morty-Catalogo/src/
 
 ***
 
-## 1. Apresentação
+## 1 Apresentação
 
   :receipt: Projeto desenvolvido em dupla durante o Bootcamp da Laboratória com o objetivo de construir uma aplicação Web capaz de visualisar e manipular dados de acordo com as necessidades do usuário.
   A temática escolhida para representar o projeto foi Rick and Morty, a animação é uma série adulta norte-americana de comédia e ficção científica estreada em 2013, que conta a história do cientista bebado Rick e seu neto pré adolescente Morty, que se envolvem em diversas aventuras perigosas.
 
-## 2. Pesquisa
+## 2 Pesquisa
 
 :bar_chart: Fizemos uma pesquisa atraves do Google forms para identificar qual nosso :dart: público alvo e quais informações os usuários gostariam de encontrar em nossa aplicação. A pesquisa obteve 160 respostas dentre os resultados obtivemos os seguintes dados:
 
@@ -40,7 +40,7 @@ https://biancasherika.github.io/Rick-and-Morty-Catalogo/src/
  
  :heavy_check_mark: E por fim, 67,9% dos usuarios disseram que gostariam de visualizar as informações em formato de card.
 
-## 3. Usuários
+## 3 Usuários
 
 ### Persona
 
@@ -72,7 +72,7 @@ Ordem para listar os personagens em ordem crescente, decrescente e de relevânci
 
 
 
-## 4. Interface de usuário
+## 4 Interface de usuário
 
 ### Protótipo de baixa qualidade
 
@@ -127,7 +127,7 @@ Personagens
 
 
 
-## 5. Desenvolvimento do Projeto
+## 5 Desenvolvimento do Projeto
 
  :rocket: Utilizamos a ferramenta Trello para organizar todas as atividades que deveriam ser entregues até a data final do projeto, utilizamos a metodologia ágile entregando partes funcionais do projeto em cada uma das três sprints que tivemos.
 Abaixo nosso quadro de organização:
@@ -141,7 +141,7 @@ Abaixo nosso quadro de organização:
 :heavy_check_mark: Deixar a aplicação responsiva para todos os tamanhos de telas</br>
 :heavy_check_mark: Manipulação de Arrays e Objetos
 
-## 6. Pontos de Melhoria
+## 6 Pontos de Melhoria
 
 
 Definimos que para os próximos passos sejam feitos os seguintes aprimoramentos:
