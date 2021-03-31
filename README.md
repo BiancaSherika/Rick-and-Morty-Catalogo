@@ -1,7 +1,7 @@
 # :sparkling_heart: Rick and Morty
 
 Quer navegar por esse mundo cheio de aventuras? Acesse agora nossa aplicação e visualize seus personagens preferidos!
-https://biancasherika.github.io/Rick-and-Morty-Catalogo/src/
+https://biancasherika.github.io/rick-and-morty-catalogo/src/
 
 ## Índice
 
